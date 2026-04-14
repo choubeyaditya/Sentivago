@@ -1,0 +1,13 @@
+
+> smart-tourism-ai-frontend@1.0.0 dev
+> next dev --webpack
+
+▲ Next.js 16.2.1 (webpack)
+- Local:         http://localhost:3000
+- Network:       http://192.168.223.167:3000
+✓ Ready in 325ms
+
+○ Compiling / ...
+ GET / 200 in 3.6s (next.js: 3.4s, application-code: 162ms)
+ GET / 200 in 52ms (next.js: 10ms, application-code: 41ms)
+ GET /places/darjeeling?placeId=demo-darjeeling&name=Darjeeling&state=West%20Bengal 200 in 1054ms (next.js: 936ms, application-code: 118ms)

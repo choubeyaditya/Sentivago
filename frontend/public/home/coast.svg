@@ -1,0 +1,13 @@
+<svg width="960" height="720" viewBox="0 0 960 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="960" height="720" rx="48" fill="#DDF1EE"/>
+  <rect width="960" height="332" rx="48" fill="#6BB8C7"/>
+  <path d="M0 312C124 290 230 248 348 260C470 272 538 340 664 336C792 332 858 286 960 272V720H0V312Z" fill="#EFF7F3"/>
+  <path d="M0 414C126 386 248 420 350 438C442 454 538 470 660 450C788 430 848 376 960 388V720H0V414Z" fill="#5BA8A4"/>
+  <path d="M0 470C120 458 210 482 332 534C446 582 556 602 664 572C790 538 860 470 960 490V720H0V470Z" fill="#2A7A73"/>
+  <circle cx="798" cy="136" r="80" fill="#F7C76D"/>
+  <path d="M164 516L222 394L280 516H164Z" fill="#2F6C54"/>
+  <rect x="214" y="516" width="18" height="72" fill="#7D5A2E"/>
+  <path d="M736 520C736 472.601 774.601 434 822 434C869.399 434 908 472.601 908 520V592H736V520Z" fill="#F6E1B3"/>
+  <text x="72" y="108" fill="#0E4E5B" font-size="42" font-family="Georgia, serif">Coastal escape</text>
+  <text x="72" y="160" fill="#1E6370" font-size="24" font-family="Arial, sans-serif">A simple local artwork block for the homepage gallery</text>
+</svg>

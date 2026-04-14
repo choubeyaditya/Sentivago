@@ -1,0 +1,18 @@
+<svg width="960" height="720" viewBox="0 0 960 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="960" height="720" rx="48" fill="#0C3B4A"/>
+  <rect width="960" height="720" rx="48" fill="url(#paint0_linear)"/>
+  <circle cx="764" cy="156" r="72" fill="#F7C96F"/>
+  <path d="M0 560L170 396L272 492L416 296L592 520L730 350L960 612V720H0V560Z" fill="#1B6B70"/>
+  <path d="M0 610L198 438L324 566L490 360L634 560L790 420L960 656V720H0V610Z" fill="#2C8A83"/>
+  <path d="M260 492L416 296L474 382H359L260 492Z" fill="#F6F4EF"/>
+  <path d="M640 518L730 350L798 460H690L640 518Z" fill="#F6F4EF"/>
+  <path d="M0 632C134 584 230 590 322 610C420 632 508 670 640 642C744 620 832 560 960 590V720H0V632Z" fill="#E8EFEA" fill-opacity="0.22"/>
+  <text x="72" y="112" fill="#F5F2E9" font-size="42" font-family="Georgia, serif">Mountain mood</text>
+  <text x="72" y="164" fill="#D5E5E1" font-size="24" font-family="Arial, sans-serif">Uploaded hero artwork for the homepage</text>
+  <defs>
+    <linearGradient id="paint0_linear" x1="120" y1="44" x2="860" y2="666" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#134B61"/>
+      <stop offset="1" stop-color="#12303B"/>
+    </linearGradient>
+  </defs>
+</svg>

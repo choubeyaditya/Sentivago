@@ -1,0 +1,3 @@
+[dotenv@17.3.1] injecting env (0) from .env -- tip: ⚙️  load multiple .env files with { path: ['.env.local', '.env'] }
+Smart Tourism API running on http://localhost:5001
+Allowed frontend origins: http://localhost:3000
